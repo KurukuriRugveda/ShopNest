@@ -1,0 +1,16 @@
+export const products = [
+  { id: 1, name: "Floral Print Midi Dress", category: "Dresses", price: 89.99, originalPrice: 129.99, rating: 4.5, reviews: 128, image: "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&q=80", badge: "Sale", isNew: false, trending: true },
+  { id: 2, name: "Classic White Blazer", category: "Tops", price: 119.99, originalPrice: null, rating: 4.8, reviews: 94, image: "https://images.unsplash.com/photo-1594938298603-c8148c4b4a57?w=400&q=80", badge: "New", isNew: true, trending: true },
+  { id: 3, name: "High-Waist Skinny Jeans", category: "Bottoms", price: 74.99, originalPrice: 99.99, rating: 4.3, reviews: 210, image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400&q=80", badge: "Sale", isNew: false, trending: false },
+  { id: 4, name: "Leather Crossbody Bag", category: "Accessories", price: 149.99, originalPrice: null, rating: 4.7, reviews: 67, image: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&q=80", badge: null, isNew: false, trending: true },
+  { id: 5, name: "Ankle Strap Heels", category: "Shoes", price: 109.99, originalPrice: 139.99, rating: 4.6, reviews: 83, image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=400&q=80", badge: "Sale", isNew: false, trending: false },
+  { id: 6, name: "Oversized Knit Sweater", category: "Tops", price: 64.99, originalPrice: null, rating: 4.4, reviews: 156, image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400&q=80", badge: "New", isNew: true, trending: false },
+  { id: 7, name: "Silk Satin Slip Dress", category: "Dresses", price: 139.99, originalPrice: 189.99, rating: 4.9, reviews: 45, image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&q=80", badge: "Sale", isNew: false, trending: true },
+  { id: 8, name: "Pleated Mini Skirt", category: "Bottoms", price: 54.99, originalPrice: null, rating: 4.2, reviews: 98, image: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=400&q=80", badge: "New", isNew: true, trending: false },
+  { id: 9, name: "Linen Wide-Leg Trousers", category: "Bottoms", price: 84.99, originalPrice: null, rating: 4.5, reviews: 72, image: "https://images.unsplash.com/photo-1594938298603-c8148c4b4a57?w=400&q=80", badge: null, isNew: false, trending: false },
+  { id: 10, name: "Denim Jacket", category: "Tops", price: 99.99, originalPrice: 119.99, rating: 4.7, reviews: 134, image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&q=80", badge: "Sale", isNew: false, trending: true },
+  { id: 11, name: "Strappy Sandals", category: "Shoes", price: 79.99, originalPrice: null, rating: 4.3, reviews: 55, image: "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=400&q=80", badge: null, isNew: false, trending: false },
+  { id: 12, name: "Statement Earrings Set", category: "Accessories", price: 34.99, originalPrice: null, rating: 4.6, reviews: 187, image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&q=80", badge: "New", isNew: true, trending: false },
+];
+
+export const categories = ["All", "Dresses", "Tops", "Bottoms", "Shoes", "Accessories"];
