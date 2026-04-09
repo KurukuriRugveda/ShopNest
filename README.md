@@ -1,16 +1,41 @@
-# React + Vite
+# Title 
+React.js Frontend Project - ShopNest E-commerce app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Objective
+To Build a React Application that implements view products,search and filter Products, add to cart, delete from cart and checkout features.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Must Have
+* View products List
+* View products details
+* Search products
+* Filtering products based on product types
+* Add to cart
+* Delete from cart
+* Order products
 
-## React Compiler
+### Nice To Have
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* User Authentication
+* Unit Testing
+* Deployment on the hoisting platform
 
-## Expanding the ESLint configuration
+# Submission Guideliness
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Commit Code regularly
+* Follow clean code guidelines
+* Include a README.md file
+* Repo should be organized
+
+# Evaluation Criteria
+
+* Code Quality
+* Error handling
+* User interface
+
+# Resources
+
+* design Files
+* APIs
+* Third-party packages
